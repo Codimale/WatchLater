@@ -1,0 +1,10 @@
+{
+  "name": "watchlater",
+  "title": "Watch Later",
+  "id": "jid1-tuzoC78c9iM4sA",
+  "description": "An addon that reminds you to visit webpages!",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1.1",
+  "icon": "package/icon-64.png"
+}
