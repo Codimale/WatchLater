@@ -5,6 +5,6 @@
   "description": "An addon that reminds you to visit webpages!",
   "author": "Soft",
   "license": "MPL 2.0",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "icon": "package/icon-64.png"
 }
